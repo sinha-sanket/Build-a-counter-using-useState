@@ -8,7 +8,7 @@ function App() {
   };
 
   return (
-    <div style={{ padding: "20px" }}>
+    <div style={{ padding: "30px" }}>
       <h2>useRef Example – Focus Input</h2>
 
       <input
@@ -17,11 +17,10 @@ function App() {
         placeholder="Yahan click bina focus ke"
       />
 
-      <br /><br />
+      <br />
+      <br />
 
-      <button onClick={focusInput}>
-        Input pe Focus Lao
-      </button>
+      <button onClick={focusInput}>Input pe Focus Lao</button>
     </div>
   );
 }
