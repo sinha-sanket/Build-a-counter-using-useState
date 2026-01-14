@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+body {
+  background-color: #7b6f6f;
+  color: #fff;
+}
+.field {
+  background-color: #fff;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+.btn-primary {
+  background-color: #fff;
+  color: #000;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-weight: 700;
+  cursor: pointer;
+  margin: 10px 3px;
+}
+
+.btn-primary:hover {
+  background-color: #ccc;
+}
