@@ -23,7 +23,7 @@ function Counter5() {
   };
 
   return (
-    <div style={{ textAlign: "center", marginTop: "50px" }}>
+    <div style={{ textAlign: "center", marginTop: "60px" }}>
       <h4>✅ ALL IN ONE </h4>
       <h3> {count}</h3>
 
